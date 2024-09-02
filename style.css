@@ -84,3 +84,21 @@ h2{
     left: 250px;
     width: 350px;
 }
+
+@media (max-width : 1000px) {
+    #img1 {
+        width: 150px;
+    }
+
+    #img2 {
+        width: 120px;
+    }
+
+    #img3{
+        width: 120px;
+    }
+
+    #img4 {
+        width: 130px;
+    }
+}
